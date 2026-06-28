@@ -8,7 +8,7 @@
 - 画像アップロード機能を実装し、洋服を写真付きで管理できます。
 
 ## ③アプリのデプロイURL
-- 
+- https://marochan.sakura.ne.jp/kadai07_db1/post.php
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: 今回なし
